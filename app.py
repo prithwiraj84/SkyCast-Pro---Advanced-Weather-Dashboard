@@ -74,7 +74,7 @@ with st.sidebar:
     speed_unit = "m/s" if units == "metric" else "mph"
 
     st.markdown("---")
-    st.markdown("Developed with ❤️ using Streamlit")
+    st.markdown("Developed By Prithwiraj Das with ❤️ using Streamlit")
 
 # --- 4. MAIN APP LOGIC ---
 
