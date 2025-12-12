@@ -6,13 +6,14 @@
 
 **SkyCast Pro** is a production-grade weather analytics dashboard built with Python and Streamlit. It goes beyond simple temperature readings by providing real-time data visualization, air quality assessments, and interactive geographic mapping.
 
-[**🔴 Live Demo**](YOUR_DEPLOYED_APP_LINK_HERE)
+[**🔴 Live Demo**]((https://skycast-pro.streamlit.app/))
 
 ---
 
 ## 📸 Screenshots
 
-![Dashboard Screenshot](https://via.placeholder.com/800x400?text=Upload+Your+App+Screenshot+Here)
+![Dashboard Screenshot](<img width="1904" height="902" alt="image" src="https://github.com/user-attachments/assets/1216935c-1238-4b9d-91d9-90c98ffa200d" />
+)
 
 ---
 
