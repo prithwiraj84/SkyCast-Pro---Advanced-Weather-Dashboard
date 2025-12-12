@@ -12,7 +12,7 @@
 
 ## 📸 Screenshots
 
-![Dashboard Screenshot](<img width="1904" height="902" alt="image" src="https://github.com/user-attachments/assets/1216935c-1238-4b9d-91d9-90c98ffa200d" />)
+![Dashboard Screenshot](https://via.placeholder.com/800x400?text=<img width="1919" height="918" alt="image" src="https://github.com/user-attachments/assets/9695e860-85a5-486e-b253-72e312e8d4d6" />)
 
 ---
 
